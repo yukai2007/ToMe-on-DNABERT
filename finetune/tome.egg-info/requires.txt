@@ -1,0 +1,6 @@
+torchvision
+numpy
+timm==0.4.12
+pillow
+tqdm
+scipy

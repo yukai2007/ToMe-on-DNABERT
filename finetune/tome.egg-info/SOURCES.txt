@@ -1,0 +1,5 @@
+tome.egg-info/PKG-INFO
+tome.egg-info/SOURCES.txt
+tome.egg-info/dependency_links.txt
+tome.egg-info/requires.txt
+tome.egg-info/top_level.txt
