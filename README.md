@@ -10,3 +10,4 @@ https://cn.overleaf.com/read/hpwmrnfxqtpg#d2e743
 + `run_dnabert2_with_r=0.sh` 是采用 ToMe on DNABERT 架构，进行 token 合并。
 
 我自己电脑上的测试结果如下：
+![image](https://github.com/user-attachments/assets/5bcb2b17-424f-400c-8cce-3b932acbab74)
